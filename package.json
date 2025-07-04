@@ -1,0 +1,37 @@
+{
+  "name": "ssul-shorts-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "description": "",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prizepresent1106/ssul-shorts-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prizepresent1106/ssul-shorts-frontend/issues"
+  },
+  "homepage": "https://github.com/prizepresent1106/ssul-shorts-frontend#readme",
+  "dependencies": {
+    "next": "^15.3.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.4",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.3.5"
+  }
+}
